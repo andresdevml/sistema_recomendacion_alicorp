@@ -23,6 +23,8 @@ Posteriormente optimizamos los hiperparametros con el objetivo de maximizar la m
 
 # Finalización del sistema de recomendación 🛍️ 
 
-Por último utilizando los mejores hiperparametros y usando el 90% de la data para el entrenamiento, obtenemos el modelo para usar en producción. Obteniendo un Recall promedio del 77% para 30 productos y del 84% para 50 productos con  la data de testeo. El entrenamiento del modelo final se realizo en el Notebook _**model_prod.ipynb**_, mientras que la prueba para el modelo de produccion se realizo en el Notebook _**predict.ipynb**_. 
+Por último utilizando los mejores hiperparametros y usando el 90% de la data para el entrenamiento, obtenemos el modelo para usar en producción. Obteniendo un Recall promedio del 77% para 30 productos y del 84% para 50 productos con  la data de testeo. 
+
+El entrenamiento del modelo final se realizo en el Notebook _**model_prod.ipynb**_, mientras que la prueba para el modelo de produccion se realizo en el Notebook _**predict.ipynb**_. 
 
 
