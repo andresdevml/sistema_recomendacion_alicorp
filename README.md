@@ -13,7 +13,7 @@ Implementación, optimización y evaluación de un sistema de recomendación de 
 
 # Extracción de datos 🗃️
 
- Extraemos los datos de Kaggle y los disponemos en dataframes para su posterior procesamiento. Este proceso corresponde a los scripts _**data_extraction.ipynb**_ y _**data_wraling.ipynb**_.
+ Extraemos los datos de la fuente y los disponemos en dataframes para su posterior procesamiento. Este proceso corresponde al script _**data_wraling.ipynb**_.
 
 # Prueba y optimización del modelo 🏁
 
