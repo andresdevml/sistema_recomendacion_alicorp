@@ -1,4 +1,4 @@
-# Sistema de Recomendación de Productos 🛒
+# Sistema de Recomendación de Productos (Alicorp) 🛒
 
 Implementación, optimización y evaluación de un sistema de recomendación de productos para los clientes de un mercado de bienes de consumo. Este sistema será de utilidad para priorizar la producción y disposición de ciertos productos sobre otros en función de las preferencias de los clientes. 
 
