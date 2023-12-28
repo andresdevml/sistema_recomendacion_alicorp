@@ -27,4 +27,9 @@ Por último utilizando los mejores hiperparametros y usando el 90% de la data pa
 
 El entrenamiento del modelo final se realizo en el Notebook _**model_prod.ipynb**_, mientras que la prueba para el modelo de produccion se realizo en el Notebook _**predict.ipynb**_. 
 
+# Modelo en producción 🏭
+
+Con el modelo finalizado, creamos una REST API para poder dar acceso al modelo como servicio. Este servicio se encuentra codificado en el script _**rest_api.py**_. Adicionalmente tenemos un script para generar un request a la api y así testear su correcto funcionamiento. Este, es el script  _**test_request.py**_.
+
+
 
